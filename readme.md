@@ -13,6 +13,6 @@
 - Chạy lệnh `php artisan serve` để tạo server
 - Truy cập http://127.0.0.1:8000 để vào web
 ``` 
-Username: tuan@local.com 
+Username: admin@local.com 
 Password: 123123
 ```
